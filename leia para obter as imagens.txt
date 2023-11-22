@@ -1,0 +1,3 @@
+fonte do banco de imagens: https://www.kaggle.com/datasets/andrewmvd/animal-faces/data
+
+banco de imagens usado: https://drive.google.com/file/d/1S_9Q_9gmwId1YtI8w7mg0ISQn_BHehiQ/view?usp=sharing
